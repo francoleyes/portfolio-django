@@ -1,6 +1,6 @@
 # Portfolio
 
-Este proyecto consiste en crear una web personal con Django que incluirá un backend para manejar el portafolio dinámicamente. Se utilizan tecnologías como Django, HTML, CSS y JavaScript.
+Este proyecto consiste en crear una web personal con Django que incluirá un backend para manejar el portafolio dinámicamente. Se utilizan tecnologías como Django, HTML, CSS, BootStrap y JavaScript.
 
 ## Descripción del Proyecto
 
